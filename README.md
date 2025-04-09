@@ -12,7 +12,7 @@ A simple console-based implementation of the classic **Space Invaders** game wri
 
 ## 🧰 Requirements
 
-- A C++11 or later compatible compiler (e.g., g++, MSVC)
+- C++11 or later compatible compiler (e.g., g++, MSVC)
 - Works on Windows using `conio.h` and `windows.h`
 
 ## 🛠️ How to Compile and Run
