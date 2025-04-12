@@ -20,8 +20,7 @@ A simple console-based implementation of the classic **Space Invaders** game wri
 ### Windows (Using g++)
 
 ```bash
-g++ space_invaders.cpp -o space_invaders
-./space_invaders
+
 
 #include <iostream>
 #include <conio.h>
